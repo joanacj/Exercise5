@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>3x3 Table with Headings</title>
+  
+
+
 </head>
 <body>
   <table>
